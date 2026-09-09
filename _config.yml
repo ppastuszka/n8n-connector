@@ -1,0 +1,5 @@
+title: gcp-goog-connector
+description: Private Google Drive connection for a self-hosted n8n instance operated by DenIT.
+url: https://n8n-google-drive.pastuszka.me
+theme: jekyll-theme-minimal
+repository: ppastuszka/n8n-connector
